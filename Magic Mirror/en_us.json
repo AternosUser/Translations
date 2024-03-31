@@ -1,0 +1,10 @@
+{
+  "item.magicmirror.magic_mirror": "Magic Mirror",
+  "item.magicmirror.ice_mirror": "Ice Mirror",
+
+  "item.magicmirror.magic_mirror.denied_dimension": "Magic mirror doesn't work in this dimension",
+
+  "subtitles.magicmirror.magic_mirror_use": "Magic mirror used",
+  "gamerule.magicMirrorCooldown": "Magic Mirror Cooldown",
+  "gamerule.magicMirrorWorksEverywhere": "Magic Mirror Works Everywhere"
+}

@@ -1,0 +1,10 @@
+{
+  "item.magicmirror.magic_mirror": "Магическое зеркало",
+  "item.magicmirror.ice_mirror": "Ледяное зеркало",
+
+  "item.magicmirror.magic_mirror.denied_dimension": "Магическое зеркало нельзя использовать в этом измерении",
+
+  "subtitles.magicmirror.magic_mirror_use": "Использовано магическое зеркало",
+  "gamerule.magicMirrorCooldown": "Время перезарядки магического зеркала",
+  "gamerule.magicMirrorWorksEverywhere": "Магическое зеркало работает везде"
+}

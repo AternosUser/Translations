@@ -1,0 +1,10 @@
+{
+  "item.magicmirror.magic_mirror": "Магічне дзеркало",
+  "item.magicmirror.ice_mirror": "Крижане дзеркало",
+
+  "item.magicmirror.magic_mirror.denied_dimension": "Магічне дзеркало не можна використовувати у цьому вимірі",
+
+  "subtitles.magicmirror.magic_mirror_use": "Використано магічне дзеркало",
+  "gamerule.magicMirrorCooldown": "Час перезаряджання магічного дзеркала",
+  "gamerule.magicMirrorWorksEverywhere": "Магічне дзеркало працює скрізь"
+}
